@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 
 period = {1: 'H', 2: 'He', 3: 'Li', 4: 'Be', 5: 'Bo', 6: 'C', 7: 'N', 8: 'O', 9: 'F', 10: 'Ne', 11: 'Na', 12: 'Mg',
