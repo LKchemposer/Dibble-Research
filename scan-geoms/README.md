@@ -1,4 +1,6 @@
-Instructions
+#Instructions
+
+## Use in Windows
 
 The "scan_geoms.py" is a Python script to extract converged geometries of a scan Gaussian output file (this script does not work with IRC output file ... yet) . To use the script in Windows,
 
